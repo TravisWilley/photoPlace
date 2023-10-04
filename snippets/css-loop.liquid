@@ -1,0 +1,10 @@
+
+
+{%- if css != blank -%}
+  {%- assign declarations = css | split: '}' -%}
+  {%- for declaration in declarations -%}
+    {%- if declaration != '' -%}
+      #shopify-section-{{ id }} {{ declaration }} }
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}

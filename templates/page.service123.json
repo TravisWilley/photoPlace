@@ -1,0 +1,175 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "0d0d53c4-4d9d-4864-9713-f1b1f6045e8b": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "custom_html": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "a3daed44-a0a1-485e-a7b4-9a9ef633e8b2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16662421930242__a3daed44-a0a1-485e-a7b4-9a9ef633e8b2-16728948559c6de92b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><em><strong>Our Backdrop Collection<\/strong><\/em><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16662421930242__a3daed44-a0a1-485e-a7b4-9a9ef633e8b2-16728948559c6de92b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>These are our selection of backdrops Included with all our packages.<\/strong><\/em><\/p>"
+          }
+        },
+        "be9d28a3-8fbc-4200-bef7-71a7f3a91e58": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16662421930242__a3daed44-a0a1-485e-a7b4-9a9ef633e8b2-16728948559c6de92b-0",
+        "template--16662421930242__a3daed44-a0a1-485e-a7b4-9a9ef633e8b2-16728948559c6de92b-1",
+        "be9d28a3-8fbc-4200-bef7-71a7f3a91e58"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "246b143b-639b-46ff-92d6-88ff49b73ee8": {
+      "type": "gallery",
+      "blocks": {
+        "template--16662421930242__246b143b-639b-46ff-92d6-88ff49b73ee8-1672950002b714d416-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gold_Sparkle.png"
+          }
+        },
+        "template--16662421930242__246b143b-639b-46ff-92d6-88ff49b73ee8-1672950002b714d416-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hedge.png"
+          }
+        },
+        "template--16662421930242__246b143b-639b-46ff-92d6-88ff49b73ee8-1672950002b714d416-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Champagne_Sparkle.png"
+          }
+        },
+        "template--16662421930242__246b143b-639b-46ff-92d6-88ff49b73ee8-1672950002b714d416-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/White.png"
+          }
+        },
+        "template--16662421930242__246b143b-639b-46ff-92d6-88ff49b73ee8-1672950002b714d416-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wedding_Gold_and_White_Marble.png"
+          }
+        },
+        "template--16662421930242__246b143b-639b-46ff-92d6-88ff49b73ee8-1672950002b714d416-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Black.png"
+          }
+        },
+        "template--16662421930242__246b143b-639b-46ff-92d6-88ff49b73ee8-1672950002b714d416-6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dark_Wood_With_String_Lights.png"
+          }
+        },
+        "template--16662421930242__246b143b-639b-46ff-92d6-88ff49b73ee8-1672950002b714d416-7": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16662421930242__246b143b-639b-46ff-92d6-88ff49b73ee8-1672950002b714d416-0",
+        "template--16662421930242__246b143b-639b-46ff-92d6-88ff49b73ee8-1672950002b714d416-1",
+        "template--16662421930242__246b143b-639b-46ff-92d6-88ff49b73ee8-1672950002b714d416-2",
+        "template--16662421930242__246b143b-639b-46ff-92d6-88ff49b73ee8-1672950002b714d416-3",
+        "template--16662421930242__246b143b-639b-46ff-92d6-88ff49b73ee8-1672950002b714d416-4",
+        "template--16662421930242__246b143b-639b-46ff-92d6-88ff49b73ee8-1672950002b714d416-5",
+        "template--16662421930242__246b143b-639b-46ff-92d6-88ff49b73ee8-1672950002b714d416-6",
+        "template--16662421930242__246b143b-639b-46ff-92d6-88ff49b73ee8-1672950002b714d416-7"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "masonry",
+        "grid-size": 4,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "af62998b-9602-41b5-8e79-ce7799a3f634": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16662421930242__af62998b-9602-41b5-8e79-ce7799a3f634-167293782293481d39-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><em><strong>Over 500 Available Backdrops<\/strong><\/em><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16662421930242__af62998b-9602-41b5-8e79-ce7799a3f634-167293782293481d39-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>An additional $275 is required for the backdrops listed below. 3 weeks notice is required prior to your booking.<\/strong><\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16662421930242__af62998b-9602-41b5-8e79-ce7799a3f634-167293782293481d39-0",
+        "template--16662421930242__af62998b-9602-41b5-8e79-ce7799a3f634-167293782293481d39-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1b65649c-863c-48d7-9ca3-b7a752308f52": {
+      "type": "custom-html",
+      "settings": {
+        "custom_html": "<iframe src=\"https:\/\/widget.pbbackdrops.com\/embed\/v1\/b237c72a-a5c8-460e-a45c-b61fc84f8a4c?choice=1&search=1\" style=\"width:100%;height:700px;border:none;\"><\/iframe><script async src=\"https:\/\/widget.pbbackdrops.com\/app\/widget.js\"><\/script>",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0d0d53c4-4d9d-4864-9713-f1b1f6045e8b",
+    "a3daed44-a0a1-485e-a7b4-9a9ef633e8b2",
+    "246b143b-639b-46ff-92d6-88ff49b73ee8",
+    "af62998b-9602-41b5-8e79-ce7799a3f634",
+    "1b65649c-863c-48d7-9ca3-b7a752308f52"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "sections": {
+    "1d6175b2-5396-44c3-b65b-1cf8a96ee809": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16662401810690__1d6175b2-5396-44c3-b65b-1cf8a96ee809-1672426798b4614228-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>About us<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--16662401810690__1d6175b2-5396-44c3-b65b-1cf8a96ee809-1672426798b4614228-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "ba1110a2-ea11-457d-a7cc-ca8578ac4146": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "1d6175b2-5396-44c3-b65b-1cf8a96ee809",
+    "main",
+    "ba1110a2-ea11-457d-a7cc-ca8578ac4146"
+  ]
+}

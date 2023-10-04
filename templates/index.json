@@ -1,0 +1,596 @@
+{
+  "sections": {
+    "87751d17-3310-4864-ad51-ff568ac56517": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": true,
+        "pretext": "",
+        "title": "check us out!",
+        "subtitle": "<p><strong>Photo Booth Rentals for Weddings, corporate events, Parties & more! Make Your memories last with The Photo Place Photo Booth Rentals<\/strong><\/p>",
+        "button1": "pricing",
+        "button1_link": "shopify:\/\/pages\/packages",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "958c7331-0b39-405a-a8a9-05c5e7d1103e": {
+      "type": "image-text",
+      "disabled": true,
+      "blocks": {
+        "template--17290501619999__958c7331-0b39-405a-a8a9-05c5e7d1103e-1671567109723fe11d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LGHS_Reunion_2.png",
+            "image_crop": "none",
+            "title": "Who We Are",
+            "text": "<p>The Photo Place transpired by Sam with more than 5 years of photo experience. With his love of photography, photo booth rentals was his next goal. Photo booth rentals are great for just about any occasion where guests are looking to have fun.<\/p>",
+            "button_label": "Learn More",
+            "link": "shopify:\/\/pages\/about",
+            "bg_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--17290501619999__958c7331-0b39-405a-a8a9-05c5e7d1103e-1671567109723fe11d-0"
+      ],
+      "settings": {
+        "wide_display": true,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row-reverse",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "d0124757-2414-4299-85ce-0b5e50019dd6": {
+      "type": "SlideshowT",
+      "disabled": true,
+      "blocks": {
+        "template--15999729565853__d0124757-2414-4299-85ce-0b5e50019dd6-1671550653b6515e38-1": {
+          "type": "image",
+          "settings": {
+            "pretext": "",
+            "title": "ADDING MOMENTS OF LIFE",
+            "title2": "",
+            "subtitle": "<p>BEAUTIFUL RELATIONSHIPS CAPTURED WITH PERFECTION.<\/p>",
+            "button1": "Book Now",
+            "button1_link": "shopify:\/\/pages\/packages",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original",
+            "mobile_image_crop": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--15999729565853__d0124757-2414-4299-85ce-0b5e50019dd6-1671550653b6515e38-1"
+      ],
+      "settings": {
+        "wide_display": true,
+        "slideshow_text_animation": "fadeInDown",
+        "slideshow_animation": "fade",
+        "slideshow_speed": 6,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "ff1991fb-9760-4880-bf65-6110307252c0": {
+      "type": "image-text",
+      "disabled": true,
+      "blocks": {
+        "template--16661828436226__ff1991fb-9760-4880-bf65-6110307252c0-167232763022f329c6-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_9.png",
+            "image_crop": "none",
+            "title": "WHY US?",
+            "text": "<p>You will never pay a delivery fee (if within 45 miles of Santa Clara County.)<br\/><br\/>Friendly and professional on-site technician<br\/><br\/> Unlimited hi-resolution commercial quality prints (Included with Add on of Reprints ( Prints for All Guests))<br\/><br\/> Guests will choose from an array of options incuding GIFs, Boomerangs and Video's<br\/><br\/>Unique favor for all of your guest to remember your event<\/p>",
+            "button_label": "Learn More",
+            "link": "shopify:\/\/pages\/packages",
+            "bg_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--16661828436226__ff1991fb-9760-4880-bf65-6110307252c0-167232763022f329c6-0"
+      ],
+      "settings": {
+        "wide_display": true,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "2a44abea-73e6-4acf-9d89-70cfde465713": {
+      "type": "SlideshowT",
+      "disabled": true,
+      "blocks": {
+        "template--16661828436226__2a44abea-73e6-4acf-9d89-70cfde465713-1672327631007559e3-1": {
+          "type": "image",
+          "settings": {
+            "pretext": "",
+            "title": "Your headline",
+            "title2": "TONS OF EXTRAS INCLUDED",
+            "subtitle": "<p>WE BRING JOY AND CREATIVITY WITH EVERY PHOTO<\/p>",
+            "button1": "View Pricing",
+            "button1_link": "shopify:\/\/pages\/packages",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original",
+            "mobile_image_crop": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--16661828436226__2a44abea-73e6-4acf-9d89-70cfde465713-1672327631007559e3-1"
+      ],
+      "settings": {
+        "wide_display": true,
+        "slideshow_text_animation": "fadeInDown",
+        "slideshow_animation": "fade",
+        "slideshow_speed": 6,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "9c0c6e01-60d6-47c0-b29b-1ed796b9100c": {
+      "type": "gallery",
+      "blocks": {
+        "78e470b2-4ccf-4d60-b555-0a89e0478cf5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Holly_Community_Center_Holiday_Party.png"
+          }
+        },
+        "template--17290501619999__9c0c6e01-60d6-47c0-b29b-1ed796b9100c-1671565365a73a73bd-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_e6ec1674-e1e9-4aa0-9b07-2bdbe0331cb5.png"
+          }
+        },
+        "template--17290501619999__9c0c6e01-60d6-47c0-b29b-1ed796b9100c-1671565365a73a73bd-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Arezu_s_Birthday_2.png"
+          }
+        },
+        "template--17290501619999__9c0c6e01-60d6-47c0-b29b-1ed796b9100c-1671565365a73a73bd-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LGHS_Reunion.png"
+          }
+        },
+        "template--17290501619999__9c0c6e01-60d6-47c0-b29b-1ed796b9100c-1671565365a73a73bd-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Arezu_s_Birthday_633adb39-6298-4bb4-adb5-3152283d72d6.png"
+          }
+        },
+        "template--17290501619999__9c0c6e01-60d6-47c0-b29b-1ed796b9100c-1671565365a73a73bd-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Qualcomm_Holiday_Party_2.png"
+          }
+        },
+        "template--17290501619999__9c0c6e01-60d6-47c0-b29b-1ed796b9100c-1671565365a73a73bd-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7_5fb96d1e-dd8e-468a-b9fa-157d18a3398f.png"
+          }
+        },
+        "5ee8130b-95b4-40da-9ea0-c9ab57ed20fc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_14_ede9e4c9-c2e2-4bec-96f2-daeac41c5a68.png"
+          }
+        },
+        "template--17290501619999__9c0c6e01-60d6-47c0-b29b-1ed796b9100c-1671565365a73a73bd-6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_1cf52005-7d8d-4775-8f7c-f24d9186c0b3.png"
+          }
+        },
+        "template--17290501619999__9c0c6e01-60d6-47c0-b29b-1ed796b9100c-1671565365a73a73bd-7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nio.png"
+          }
+        },
+        "f179f214-835d-470c-a5ed-8c7b2dc3d5c4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Couchbase_Prom_2.png"
+          }
+        },
+        "745b02d9-7a8d-4c94-98a4-6749b822f1bb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20221218_194632_719_IMG_0228.jpg"
+          }
+        },
+        "c8d1d386-c042-42fd-a715-599f7150c4f7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_11_27771457-6383-42fa-9ebd-bff8f8a5f717.png"
+          }
+        },
+        "65959425-81d5-45af-8649-a0d1966017c3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/More_Gallery_2.png"
+          }
+        },
+        "15411f25-3626-4a68-a928-f14756083fc5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lexus_Holiday_Party.png"
+          }
+        },
+        "0f2dc28d-083a-43ac-bfd9-c1914c3163bb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Couchbase_Prom.png"
+          }
+        },
+        "733fb87e-a104-49ca-bdb1-6b4977bf9d6f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Holly_Community_Center_Holiday_Party_2.png"
+          }
+        },
+        "65c5875b-373b-4c31-bbfd-6392bd32c6af": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Qualcomm_Holiday_Party.png"
+          }
+        },
+        "05ea1b72-8d75-4403-a57f-e594a77374bf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Evolve_Holiday_Party.png"
+          }
+        },
+        "2902775f-0776-49b5-be26-40d096e46922": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nio_3.png"
+          }
+        },
+        "0d17e0ed-3c92-4e48-a9b7-6ddb3c01b973": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20221125_211951_732_IMG_0050.jpg"
+          }
+        },
+        "21515323-bb3e-4ce8-b84b-f071608bd2fc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20220611_155853_862_IMG_0024.png"
+          }
+        }
+      },
+      "block_order": [
+        "78e470b2-4ccf-4d60-b555-0a89e0478cf5",
+        "template--17290501619999__9c0c6e01-60d6-47c0-b29b-1ed796b9100c-1671565365a73a73bd-0",
+        "template--17290501619999__9c0c6e01-60d6-47c0-b29b-1ed796b9100c-1671565365a73a73bd-2",
+        "template--17290501619999__9c0c6e01-60d6-47c0-b29b-1ed796b9100c-1671565365a73a73bd-1",
+        "template--17290501619999__9c0c6e01-60d6-47c0-b29b-1ed796b9100c-1671565365a73a73bd-3",
+        "template--17290501619999__9c0c6e01-60d6-47c0-b29b-1ed796b9100c-1671565365a73a73bd-4",
+        "template--17290501619999__9c0c6e01-60d6-47c0-b29b-1ed796b9100c-1671565365a73a73bd-5",
+        "5ee8130b-95b4-40da-9ea0-c9ab57ed20fc",
+        "template--17290501619999__9c0c6e01-60d6-47c0-b29b-1ed796b9100c-1671565365a73a73bd-6",
+        "template--17290501619999__9c0c6e01-60d6-47c0-b29b-1ed796b9100c-1671565365a73a73bd-7",
+        "f179f214-835d-470c-a5ed-8c7b2dc3d5c4",
+        "745b02d9-7a8d-4c94-98a4-6749b822f1bb",
+        "c8d1d386-c042-42fd-a715-599f7150c4f7",
+        "65959425-81d5-45af-8649-a0d1966017c3",
+        "15411f25-3626-4a68-a928-f14756083fc5",
+        "0f2dc28d-083a-43ac-bfd9-c1914c3163bb",
+        "733fb87e-a104-49ca-bdb1-6b4977bf9d6f",
+        "65c5875b-373b-4c31-bbfd-6392bd32c6af",
+        "05ea1b72-8d75-4403-a57f-e594a77374bf",
+        "2902775f-0776-49b5-be26-40d096e46922",
+        "0d17e0ed-3c92-4e48-a9b7-6ddb3c01b973",
+        "21515323-bb3e-4ce8-b84b-f071608bd2fc"
+      ],
+      "settings": {
+        "wide_display": true,
+        "title": "",
+        "gallery_type": "masonry",
+        "grid-size": 3,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "a9836ac5-8dc6-4b2e-8a27-eed10002a3d6": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--16661828436226__a9836ac5-8dc6-4b2e-8a27-eed10002a3d6-16723409227bb39abe-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BOOK NOW",
+            "button_link": "https:\/\/the-photo-place.checkcherry.com\/reservation",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16661828436226__a9836ac5-8dc6-4b2e-8a27-eed10002a3d6-16723409227bb39abe-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 8
+      }
+    },
+    "cb0fed17-a15a-480b-b0eb-5a3dff763a00": {
+      "type": "logo-bar",
+      "blocks": {
+        "template--16661828436226__cb0fed17-a15a-480b-b0eb-5a3dff763a00-1672327630899eeb3e-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NIO_logo_svg.png",
+            "link": ""
+          }
+        },
+        "f82c43d3-0f9f-4eab-b78a-0519a0459498": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lexus-Logo-1989_2afccbdd-3ce3-4fb1-90bf-e83edc64e4be.png",
+            "link": ""
+          }
+        },
+        "e28f72c5-46ca-45d3-af26-c6e4c097b8b9": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download__3_-removebg-preview.png",
+            "link": ""
+          }
+        },
+        "51bfb937-d0f9-4fc7-a327-702f13bcdc8c": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_6cd9d964-bc29-4634-8ec2-0a5313846ee9.png",
+            "link": ""
+          }
+        },
+        "60b04ccf-a39c-43d5-9ecd-17e036002d27": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/toppng.com-qualcomm-logo-2433x512_740062f5-e1d3-4e50-a1a7-5114f8d4d890.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16661828436226__cb0fed17-a15a-480b-b0eb-5a3dff763a00-1672327630899eeb3e-0",
+        "f82c43d3-0f9f-4eab-b78a-0519a0459498",
+        "e28f72c5-46ca-45d3-af26-c6e4c097b8b9",
+        "51bfb937-d0f9-4fc7-a327-702f13bcdc8c",
+        "60b04ccf-a39c-43d5-9ecd-17e036002d27"
+      ],
+      "settings": {
+        "title": "Our Clients",
+        "layout": "grid",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "e839ff1e-0785-470e-95c8-15a083b1030e": {
+      "type": "gallery",
+      "disabled": true,
+      "blocks": {
+        "template--16661828436226__e839ff1e-0785-470e-95c8-15a083b1030e-1672327630b9ee0755-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_e9d8f8d1-3a2b-4268-85d1-23bc27f7e70c.png"
+          }
+        },
+        "template--16661828436226__e839ff1e-0785-470e-95c8-15a083b1030e-1672327630b9ee0755-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_9d30b283-f0ed-4eb2-ae3e-abd7103f1a94.png"
+          }
+        },
+        "template--16661828436226__e839ff1e-0785-470e-95c8-15a083b1030e-1672327630b9ee0755-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_2ef859ae-8974-4689-8952-f89a3c0881a5.png"
+          }
+        },
+        "template--16661828436226__e839ff1e-0785-470e-95c8-15a083b1030e-1672327630b9ee0755-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_c510da56-584e-44ca-96cc-63675ff04162.png"
+          }
+        },
+        "template--16661828436226__e839ff1e-0785-470e-95c8-15a083b1030e-1672327630b9ee0755-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_b11b9ed9-8aa9-4a77-b698-daaabefea816.png"
+          }
+        },
+        "template--16661828436226__e839ff1e-0785-470e-95c8-15a083b1030e-1672327630b9ee0755-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_92631402-2ea4-4e79-9cfd-0014233dc911.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--16661828436226__e839ff1e-0785-470e-95c8-15a083b1030e-1672327630b9ee0755-0",
+        "template--16661828436226__e839ff1e-0785-470e-95c8-15a083b1030e-1672327630b9ee0755-1",
+        "template--16661828436226__e839ff1e-0785-470e-95c8-15a083b1030e-1672327630b9ee0755-2",
+        "template--16661828436226__e839ff1e-0785-470e-95c8-15a083b1030e-1672327630b9ee0755-3",
+        "template--16661828436226__e839ff1e-0785-470e-95c8-15a083b1030e-1672327630b9ee0755-4",
+        "template--16661828436226__e839ff1e-0785-470e-95c8-15a083b1030e-1672327630b9ee0755-5"
+      ],
+      "settings": {
+        "wide_display": true,
+        "title": "OUR BACKDROP",
+        "gallery_type": "classic",
+        "grid-size": 3,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "4391294a-6eae-4a07-b92c-03a0725cb477": {
+      "type": "Testimonial",
+      "blocks": {
+        "7b0171d0-bcc6-4506-862a-cc3d637149c7": {
+          "type": "image",
+          "settings": {
+            "title": "Let Customers Speak For Us",
+            "testimonial": "<p>Sam and Juan were exceptional. <\/p>",
+            "name": "-Sherwin",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "image": "shopify:\/\/shop_images\/More_Gallery_1600_x_800px_1_06197884-4857-4116-9128-f009af48c834.png",
+            "mobile_image_crop": "none",
+            "caption_content_background": "original"
+          }
+        },
+        "2db5ceb9-2dd4-4556-b7f1-fde3cf0e93e0": {
+          "type": "image",
+          "settings": {
+            "title": "Let Customers Speak for us",
+            "testimonial": "<p>The Photo Place was definitely a big hit!<\/p>",
+            "name": "-Camilla",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "image": "shopify:\/\/shop_images\/More_Gallery_1600_x_800px_1_06197884-4857-4116-9128-f009af48c834.png",
+            "mobile_image_crop": "none",
+            "caption_content_background": "original"
+          }
+        },
+        "template--16661828436226__4391294a-6eae-4a07-b92c-03a0725cb477-16723279008a2bd99a-2": {
+          "type": "image",
+          "settings": {
+            "title": "Let Customers Speak For us",
+            "testimonial": "<p>I would definitely use their services again in the future.<\/p>",
+            "name": "-Alisha",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "image": "shopify:\/\/shop_images\/More_Gallery_1600_x_800px_1_06197884-4857-4116-9128-f009af48c834.png",
+            "mobile_image_crop": "none",
+            "caption_content_background": "original"
+          }
+        },
+        "template--16661828436226__4391294a-6eae-4a07-b92c-03a0725cb477-16723279008a2bd99a-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "title": "Let Customers Speak For Us",
+            "testimonial": "<p>Packages are just the right price, I took the Premium Package and it was the Best!<br\/><br\/>        <\/p>",
+            "name": "-Nick",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "image": "shopify:\/\/shop_images\/More_Gallery_1600_x_800px_1.png",
+            "mobile_image_crop": "none",
+            "caption_content_background": "original"
+          }
+        },
+        "template--16661828436226__4391294a-6eae-4a07-b92c-03a0725cb477-16723279008a2bd99a-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "title": "Let Customers Speak For Us",
+            "testimonial": "<p>Great Service! I would highly recommend them for future events.<\/p><p>     <\/p>",
+            "name": "-Juan",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "image": "shopify:\/\/shop_images\/More_Gallery_1600_x_800px_1_54eaac64-8807-4921-9bb5-afab70f2fb52.png",
+            "mobile_image_crop": "none",
+            "caption_content_background": "original"
+          }
+        }
+      },
+      "block_order": [
+        "7b0171d0-bcc6-4506-862a-cc3d637149c7",
+        "2db5ceb9-2dd4-4556-b7f1-fde3cf0e93e0",
+        "template--16661828436226__4391294a-6eae-4a07-b92c-03a0725cb477-16723279008a2bd99a-2",
+        "template--16661828436226__4391294a-6eae-4a07-b92c-03a0725cb477-16723279008a2bd99a-0",
+        "template--16661828436226__4391294a-6eae-4a07-b92c-03a0725cb477-16723279008a2bd99a-1"
+      ],
+      "settings": {
+        "wide_display": true,
+        "testimonial_text_animation": "fadeInDown",
+        "testimonial_speed": 4,
+        "activate_adaptiveHeight": true,
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "4e1b8297-143b-41ff-b614-c9aa9ebf39f1": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "custom_html": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3174.054765558595!2d-121.95860948389841!3d37.293835847454716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808e35dcc9d5784d%3A0x3097798fa3b897ad!2sThe%20Photo%20Place!5e0!3m2!1sen!2sus!4v1654964646437!5m2!1sen!2sus\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "87751d17-3310-4864-ad51-ff568ac56517",
+    "958c7331-0b39-405a-a8a9-05c5e7d1103e",
+    "d0124757-2414-4299-85ce-0b5e50019dd6",
+    "ff1991fb-9760-4880-bf65-6110307252c0",
+    "2a44abea-73e6-4acf-9d89-70cfde465713",
+    "9c0c6e01-60d6-47c0-b29b-1ed796b9100c",
+    "a9836ac5-8dc6-4b2e-8a27-eed10002a3d6",
+    "cb0fed17-a15a-480b-b0eb-5a3dff763a00",
+    "e839ff1e-0785-470e-95c8-15a083b1030e",
+    "4391294a-6eae-4a07-b92c-03a0725cb477",
+    "4e1b8297-143b-41ff-b614-c9aa9ebf39f1"
+  ]
+}

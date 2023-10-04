@@ -1,0 +1,247 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "ca6c34fa-f789-4e2f-97c7-96e090008186": {
+      "type": "faq",
+      "blocks": {
+        "template--16662421995778__ca6c34fa-f789-4e2f-97c7-96e090008186-1672426327447f6168-1": {
+          "type": "content",
+          "settings": {
+            "title": "What is your rental policy?",
+            "answer": "<p>We have created a detailed policy which protects both you as the (rentee) and us as the (Renter). It covers our booking fee, cancellation, damages, and general liability. <\/p>"
+          }
+        },
+        "template--16662421995778__ca6c34fa-f789-4e2f-97c7-96e090008186-1672426327447f6168-2": {
+          "type": "content",
+          "settings": {
+            "title": "What  is included in each rental?",
+            "answer": "<p>Every rental includes: delivery, setup, attendent, photo templates, photo gallery, and instant sharing via email.<\/p>"
+          }
+        },
+        "template--16662421995778__ca6c34fa-f789-4e2f-97c7-96e090008186-1672426327447f6168-3": {
+          "type": "content",
+          "settings": {
+            "title": "What happens due to bad weather outdoors?",
+            "answer": "<p>For extreme weather, we will have to come up with another plan. Our equipment doesn’t do well with extreme heat and rainy weather.<\/p>"
+          }
+        },
+        "template--16662421995778__ca6c34fa-f789-4e2f-97c7-96e090008186-1672426327447f6168-5": {
+          "type": "content",
+          "settings": {
+            "title": "When do I have to pay the full amount of my rental?",
+            "answer": "<p>We collect a $100 deposit and the remaining balance is due 1 day before your event. If you happen to book less than a day of your event date, then we invite you to pay the full amount at the initial booking. <\/p>"
+          }
+        },
+        "template--16662421995778__ca6c34fa-f789-4e2f-97c7-96e090008186-1672426327447f6168-6": {
+          "type": "content",
+          "settings": {
+            "title": "How much space is required for a Open-Air  Photo Booth?",
+            "answer": "<p>The Open-Air Photo Booth requires : 10 feet x 10 feet x 10 feet.<\/p>"
+          }
+        },
+        "template--16662421995778__ca6c34fa-f789-4e2f-97c7-96e090008186-1672426327447f6168-7": {
+          "type": "content",
+          "settings": {
+            "title": "Are you insured and registered?",
+            "answer": "<p>Yes, we are! Our company can provide you a copy of our liability insurance and business license. <\/p>"
+          }
+        },
+        "3b4dff60-ca15-4727-a418-102a7acf87b8": {
+          "type": "content",
+          "settings": {
+            "title": "Where can I find my photos?",
+            "answer": "<p>The day after your event, we post the photos to our website in the  gallery as well as email the link to you to share with guests. The gallery is public on our site, so your guests can download and share the photos. We can also lock your gallery with a unique password if you would like. Let us know before your event. <\/p>"
+          }
+        },
+        "ba2eea4f-3f82-4212-904f-f50e7b62b816": {
+          "type": "content",
+          "settings": {
+            "title": "What type of backdrops do you have?",
+            "answer": "<p>We have different styles to match your theme. If you cannot find something you like please let us know! We are more than happy to add it to our list. We can also design something custom for an extra cost, depending on size and style. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16662421995778__ca6c34fa-f789-4e2f-97c7-96e090008186-1672426327447f6168-1",
+        "template--16662421995778__ca6c34fa-f789-4e2f-97c7-96e090008186-1672426327447f6168-2",
+        "template--16662421995778__ca6c34fa-f789-4e2f-97c7-96e090008186-1672426327447f6168-3",
+        "template--16662421995778__ca6c34fa-f789-4e2f-97c7-96e090008186-1672426327447f6168-5",
+        "template--16662421995778__ca6c34fa-f789-4e2f-97c7-96e090008186-1672426327447f6168-6",
+        "template--16662421995778__ca6c34fa-f789-4e2f-97c7-96e090008186-1672426327447f6168-7",
+        "3b4dff60-ca15-4727-a418-102a7acf87b8",
+        "ba2eea4f-3f82-4212-904f-f50e7b62b816"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8": {
+      "type": "faq",
+      "blocks": {
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-0": {
+          "type": "heading",
+          "settings": {
+            "faq_title": "Section heading"
+          }
+        },
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-1": {
+          "type": "content",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-2": {
+          "type": "content",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-3": {
+          "type": "content",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-4": {
+          "type": "heading",
+          "settings": {
+            "faq_title": "Section heading"
+          }
+        },
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-5": {
+          "type": "content",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-6": {
+          "type": "content",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-7": {
+          "type": "content",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-8": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-0",
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-1",
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-2",
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-3",
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-4",
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-5",
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-6",
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-7",
+        "template--16662421995778__43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8-16724387367d70227f-8"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "a709c148-972f-47e0-b7aa-e1a6c1f6f626": {
+      "type": "faq",
+      "blocks": {
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-0": {
+          "type": "heading",
+          "settings": {
+            "faq_title": "Section heading"
+          }
+        },
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-1": {
+          "type": "content",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-2": {
+          "type": "content",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-3": {
+          "type": "content",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-4": {
+          "type": "heading",
+          "settings": {
+            "faq_title": "Section heading"
+          }
+        },
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-5": {
+          "type": "content",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-6": {
+          "type": "content",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-7": {
+          "type": "content",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-8": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-0",
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-1",
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-2",
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-3",
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-4",
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-5",
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-6",
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-7",
+        "template--16662421995778__a709c148-972f-47e0-b7aa-e1a6c1f6f626-16724387367d70227f-8"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ca6c34fa-f789-4e2f-97c7-96e090008186",
+    "43c22e86-ab6c-48f6-8f7f-8a7bdfd5bdf8",
+    "a709c148-972f-47e0-b7aa-e1a6c1f6f626"
+  ]
+}

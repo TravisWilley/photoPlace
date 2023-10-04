@@ -1,0 +1,246 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "9416d2d7-b922-43d4-a643-917d7e65c245": {
+      "type": "text-columns-with-imagesT",
+      "blocks": {
+        "template--16661828534530__9416d2d7-b922-43d4-a643-917d7e65c245-16724169439a7a9932-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Essentials Package",
+            "heading_size": "regular_text",
+            "text": "",
+            "button_label": "View Pricing",
+            "button_link": "https:\/\/the-photo-place.checkcherry.com\/reservation\/set_event?event_type_id=49104",
+            "align_text": "center",
+            "border_style": "box"
+          }
+        },
+        "261504fb-e9c1-4a0d-9ae9-ad8bdfe7d405": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": false,
+            "title": "Essentials Package +",
+            "heading_size": "regular_text",
+            "text": "<p>$ 550.00<\/p><p>2 Hours of Photo Booth Fun<\/p><p>Free Setup, Break Down and Delivery up to 35 miles of 95008<\/p><p>2x6 Photo Strips<\/p><p>Custom Templates<\/p><p>On-Site Attendant<\/p><p>Variety of Backdrop Options<\/p><p>High Quality Prints<\/p><p>Online Photo Gallery<\/p>",
+            "button_label": "Book Now",
+            "button_link": "https:\/\/the-photo-place.checkcherry.com\/reservation\/set_event?event_type_id=49104",
+            "align_text": "center",
+            "border_style": "box"
+          }
+        },
+        "template--16661828534530__9416d2d7-b922-43d4-a643-917d7e65c245-16724169439a7a9932-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "premium Package",
+            "heading_size": "regular_text",
+            "text": "",
+            "button_label": "View Pricing",
+            "button_link": "https:\/\/the-photo-place.checkcherry.com\/reservation\/set_event?event_type_id=49103",
+            "align_text": "center",
+            "border_style": "box"
+          }
+        },
+        "99752ff7-6431-42d2-8fa7-1ffd59e5f9d7": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": false,
+            "title": "Supreme",
+            "heading_size": "regular_text",
+            "text": "",
+            "button_label": "Book Now",
+            "button_link": "https:\/\/the-photo-place.checkcherry.com\/reservation\/set_event?event_type_id=49104",
+            "align_text": "center",
+            "border_style": "box"
+          }
+        },
+        "68766c44-3f53-4db0-976c-031ab87063b8": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Supreme Package",
+            "heading_size": "regular_text",
+            "text": "",
+            "button_label": "View Pricing",
+            "button_link": "https:\/\/the-photo-place.checkcherry.com\/reservation\/set_event?event_type_id=49102",
+            "align_text": "center",
+            "border_style": "box"
+          }
+        }
+      },
+      "block_order": [
+        "template--16661828534530__9416d2d7-b922-43d4-a643-917d7e65c245-16724169439a7a9932-0",
+        "261504fb-e9c1-4a0d-9ae9-ad8bdfe7d405",
+        "template--16661828534530__9416d2d7-b922-43d4-a643-917d7e65c245-16724169439a7a9932-1",
+        "99752ff7-6431-42d2-8fa7-1ffd59e5f9d7",
+        "68766c44-3f53-4db0-976c-031ab87063b8"
+      ],
+      "settings": {
+        "title": "Photo Booth Packages",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "e1a3e2a9-c702-45d0-943b-267559546118": {
+      "type": "DividerT",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "4cfbf2c0-2f80-4ff7-863d-eed1f4b35d17": {
+      "type": "text-columns-with-imagesT",
+      "blocks": {
+        "template--16661828534530__4cfbf2c0-2f80-4ff7-863d-eed1f4b35d17-1678214503b7215165-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Basic Package",
+            "heading_size": "regular_text",
+            "text": "",
+            "button_label": "View Pricing",
+            "button_link": "https:\/\/the-photo-place.checkcherry.com\/reservation\/set_event?event_type_id=60990",
+            "align_text": "center",
+            "border_style": "box"
+          }
+        },
+        "template--16661828534530__4cfbf2c0-2f80-4ff7-863d-eed1f4b35d17-1678214503b7215165-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Classic Package",
+            "heading_size": "regular_text",
+            "text": "",
+            "button_label": "View Pricing",
+            "button_link": "https:\/\/the-photo-place.checkcherry.com\/reservation\/set_event?event_type_id=60988",
+            "align_text": "center",
+            "border_style": "box"
+          }
+        },
+        "2310a796-1c7b-4f5c-a6e0-edbc28a8bae3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Deluxe Package",
+            "heading_size": "regular_text",
+            "text": "",
+            "button_label": "View Pricing",
+            "button_link": "https:\/\/the-photo-place.checkcherry.com\/reservation\/set_event?event_type_id=60989",
+            "align_text": "center",
+            "border_style": "box"
+          }
+        }
+      },
+      "block_order": [
+        "template--16661828534530__4cfbf2c0-2f80-4ff7-863d-eed1f4b35d17-1678214503b7215165-1",
+        "template--16661828534530__4cfbf2c0-2f80-4ff7-863d-eed1f4b35d17-1678214503b7215165-0",
+        "2310a796-1c7b-4f5c-a6e0-edbc28a8bae3"
+      ],
+      "settings": {
+        "title": "Photograpghy services",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f131b5f1-d5df-45f7-ae6c-e97f571ec35e": {
+      "type": "DividerT",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "ca6e19ac-40a2-4339-8c6d-525d357afdfa": {
+      "type": "rich-text",
+      "blocks": {
+        "ae0296ee-908b-46e5-ab02-921dc33cb8da": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Photo booth ADD ONS<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "3673ce2a-aa6b-42a9-84c7-6fb2098e5e15": {
+          "type": "text",
+          "settings": {
+            "text": "<p>PROPS ( $35 )<\/p><p>USB DRIVE ( $30 )<\/p><p>ADDITIONAL HOUR ( $250 )<\/p><p>DOUBLE PRINTS FOR 4X6 ( $70 )<\/p><p>REPRINTS ( PRINTS FOR ALL GUESTS ) ( $175 )<\/p><p>4x6 Upgrade ( $100 )<\/p><p>Custom Backdrops ( $200 )<\/p><p>Custom Props ( $125 )<\/p><p>Prices may be changed at anytime without futher notice. Travel fees may apply.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ae0296ee-908b-46e5-ab02-921dc33cb8da",
+        "3673ce2a-aa6b-42a9-84c7-6fb2098e5e15"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "b661c584-8190-46a3-acc9-e38b543056bc": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16661828534530__b661c584-8190-46a3-acc9-e38b543056bc-16724169429a95fea1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Custom\/Corporate Packages Available<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "04bb9cc7-727d-4a4f-a668-b76c989cb6eb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Please Contact us for more details on a personalized package that fits your budget and needs.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16661828534530__b661c584-8190-46a3-acc9-e38b543056bc-16724169429a95fea1-0",
+        "04bb9cc7-727d-4a4f-a668-b76c989cb6eb"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "7eae5b9b-4563-4bdf-828b-e452bce65625": {
+      "type": "custom-html",
+      "settings": {
+        "custom_html": "<center> <iframe class=\"checkcherry-autoresize-frame\" src=\"https:\/\/the-photo-place.checkcherry.com\/availability_calendar?iframe=true&props=%7B%22showBookNowButton%22%3Atrue%2C%22bookNowButtonText%22%3A%22Book%20Now%22%2C%22availableMessage%22%3A%22Congratulations%2C%20we%20are%20currently%20available%20for%20this%20day%20and%20package.%20%20Just%20click%20%26%2339%3BBook%20Now%26%2339%3B%20to%20reserve%20your%20date%20now.%22%2C%22unavailableMessage%22%3A%22Sorry%2C%20but%20we%20are%20not%20able%20to%20take%20automated%20bookings%20for%20this%20date%20or%20package.%20%20Please%20contact%20us%20directly%20to%20check%20for%20available%20options.%22%2C%22theme%22%3A%22normal%22%7D\" style=\"margin: 0; padding: 0; border: none; width: 1000px; height: 390px\" scrolling=\"auto\" allowtransparency=\"true\"><\/iframe><script src=\"https:\/\/the-photo-place.checkcherry.com\/api\/checkcherry_widgets\/iframe\" type=\"text\/javascript\" charset=\"utf-8\"><\/script>\n<\/center>",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "9416d2d7-b922-43d4-a643-917d7e65c245",
+    "e1a3e2a9-c702-45d0-943b-267559546118",
+    "4cfbf2c0-2f80-4ff7-863d-eed1f4b35d17",
+    "f131b5f1-d5df-45f7-ae6c-e97f571ec35e",
+    "ca6e19ac-40a2-4339-8c6d-525d357afdfa",
+    "b661c584-8190-46a3-acc9-e38b543056bc",
+    "7eae5b9b-4563-4bdf-828b-e452bce65625"
+  ]
+}
